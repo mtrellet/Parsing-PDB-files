@@ -1,0 +1,5 @@
+THis simple script allow you to make some simple manipulation with PDB files. It needs python and Biopython module to work.
+
+Using : python editPDB.py {pdb_file_name}
+
+You can also type $python editPDB.py -h to access to the help interface
